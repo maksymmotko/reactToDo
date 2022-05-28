@@ -1,0 +1,9 @@
+.app-list {
+    margin: 0 auto;
+    margin-top: 5px;
+    background-color: rgb(155, 155, 155);
+    border-radius: 4px;
+    box-shadow: 15px 15px 30px rgba(0,0,0, .15);
+    color: #fff;
+    width: 750px;
+}

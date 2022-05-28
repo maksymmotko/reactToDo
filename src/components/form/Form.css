@@ -1,0 +1,10 @@
+.app-add-form {
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 750px;
+}
+
+.add-form input{
+    margin-right: 10px;
+    border: 1px solid #000;
+}
